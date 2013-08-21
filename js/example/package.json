@@ -1,0 +1,23 @@
+{
+    "spm" : {
+        "output" : {
+            "relative" : [
+                "js/apps/router.js"
+            ],
+            "all" : [
+                "base/handlebars.js"
+            ]
+        },
+        "alias" : {
+            "$" : "gallery/jquery/1.9.1/jquery",
+            "_" : "gallery/underscore/1.4.4/underscore",
+            "handlebars" : "gallery/handlebars/1.0.2/runtime",
+            "example-handlebars" : "example/base/handlebars",
+            "jquery" : "gallery/jquery/1.9.1/jquery",
+            "underscore" : "gallery/underscore/1.4.4/underscore",
+            "backbone" : "gallery/backbone/backbone-min",
+            "cookie" : "gallery/jquery.cookie",
+            "json" : "gallery/json/json2"
+        }
+    }
+}
